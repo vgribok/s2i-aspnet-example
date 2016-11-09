@@ -252,7 +252,7 @@
             "description": "The URL of the repository with your application source code.",
             "displayName": "Git URI",
             "required": true,
-            "value": "https://github.com/openshift-s2i/s2i-aspnet-example.git"
+            "value": "https://github.com/vgribok/s2i-aspnet-example.git"
         },
         {
             "name": "GIT_REF",
